@@ -1,4 +1,3 @@
-cat y.z
 cd 
 mkdir .vim
 cd .vim
